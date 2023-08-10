@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Oxanium', cursive;
+    user-select: none;
 }
 
 body {
@@ -17,6 +18,7 @@ main {
     display: inline-block;
     margin-top: 2%;
     padding: 15px;
+    position: relative;
 }
 
 .pokedex {
